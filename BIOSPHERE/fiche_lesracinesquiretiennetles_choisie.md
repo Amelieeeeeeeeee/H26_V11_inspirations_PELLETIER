@@ -36,5 +36,8 @@
 ![photo](media/vague.jpg)
 ##### Cette photo a été prise par moi
 
+## Mise en place: Dans la salle, il y avait des courtes descriptions de l'exposition partout sur les murs avec des images et des projections. 
+
 ![photo](media/croquis.jpg)
-##### Ce croquis a été faite par moi
+##### Cette mise en place a été faite par moi. 
+
