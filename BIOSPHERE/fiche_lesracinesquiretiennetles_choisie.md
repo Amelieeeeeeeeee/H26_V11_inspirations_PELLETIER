@@ -12,6 +12,7 @@
 
 ## Nom de l'artiste: Espace pour la vie
 
+
 ## Description: Les racines des arbres et des plantes sont de véritables héros pour le sol. Elles forment un réseau souterrain qui retient la terre et l'aide à absorber l'eau, comme une éponge. Ceci limite l'érosion causée par les pluies. En s'infiltrant, l'eau se charge de carbone, phosphore et d'azote. Quand elle ressort dans les ruisseaux ou les sources, elle apporte ces nutriments essentiels à la vie aquatique.
 ![photo](media/cartel.jpg)
 
@@ -21,6 +22,7 @@
 
 ![photo](media/description_visuelle.jpg)
 ##### Cette photo a été prise par moi
+
 
 ## Type d'installation: Comtemplative
 
@@ -33,3 +35,6 @@
 
 ![photo](media/vague.jpg)
 ##### Cette photo a été prise par moi
+
+![photo](media/croquis.jpg)
+##### Ce croquis a été faite par moi
