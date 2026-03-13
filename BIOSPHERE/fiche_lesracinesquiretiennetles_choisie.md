@@ -31,7 +31,7 @@
 ![photo](media/projection_mur.jpg)
 ##### Cette photo a été prise par moi
 
-## Ce qui m'a plus: Ce qui m'a plus étaient les installations interactives qui permettent de mieux comprendre comment l'eau passe entre les montages, rivières les lacs et plus. Ceci m'a fait réfléchir à l'importance de protéger l'eau et de faire attention a nos gestes.
+## Ce qui m'a plu: Ce qui m'a plu étaient les installations interactives qui permettent de mieux comprendre comment l'eau passe entre les montages, rivières les lacs et plus. Ceci m'a fait réfléchir à l'importance de protéger l'eau et de faire attention a nos gestes.
 
 ![photo](media/vague.jpg)
 ##### Cette photo a été prise par moi
