@@ -26,7 +26,7 @@
 
 ## Type d'installation: Comtemplative
 
-## Expérience vécu: J'ai bien aimée l'ambiance de la salle. Il y avait des speakers qui faisait des sons comme si ont étaient à l'extérieur dans la nature. Il y avait aussi plusieurs projecteurs sur des murs qui montraient des animaux et des rivières.
+## Expérience vécu: J'ai bien aimée l'ambiance de la salle. Il y avait des speakers qui faisait des sons comme si ont étaient à l'extérieur dans la nature. Il y avait aussi plusieurs projecteurs sur des murs qui montraient des animaux et des rivières. 
 
 ![photo](media/projection_mur.jpg)
 ##### Cette photo a été prise par moi
