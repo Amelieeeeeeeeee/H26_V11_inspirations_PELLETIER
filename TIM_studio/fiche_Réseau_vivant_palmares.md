@@ -10,7 +10,7 @@
 ## Date : 17 Mars 2026
 
 ## Nom de l'artiste : 
-
+![photo](media/cartel.jpg)
 ## Description: C'était un grand écran et on pouvait jouer à plusieurs personnes. Le but est de se rendre à la destination demandé sans se faire toucher incluant les coins. Il y a plusieurs niveaux à ce jeu.
 
 ![photo](media/projection_visuelle.jpg)
