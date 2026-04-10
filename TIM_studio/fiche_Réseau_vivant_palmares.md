@@ -18,14 +18,14 @@
 
 ## Composants: Dans la salle, il y avait une un grand écran avec un code QR.
 ![photo](media/codeqr.jpg)
-##### Cette photo a été prise par moi
+##### Cette photo a été prise par Rosa-Lee Savoie
 
 
 ## Type d'installation: Comtemplative
 
 ## Expérience vécu: J'ai bien aimée l'ambiance de la salle. J'ai aussi aimé les personnages qu'ont étaient donnés et les sound effects.
 ![photo](media/speaker.jpg)
-##### Cette photo a été prise par moi
+##### Cette photo a été prise par Rosa-Lee Savoie
 
 ## Ce qui m'a plu: Ce qui m'a plu étaient les installations interactives qui permettent de mieux comprendre comment jouer avec les bouttons sur mon téléphone.
 
