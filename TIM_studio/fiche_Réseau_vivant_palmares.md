@@ -9,12 +9,12 @@
 
 ## Date : 17 Mars 2026
 
-## Nom de l'artiste : 
+## Nom des artistes : Dana Saavedra-Torrano, Mégane Ranger, Ting Yung Terru Lu, Émeryk Bélisle, Elie Daher.
 ![photo](media/cartel.jpg)
 ## Description: C'était un grand écran et on pouvait jouer à plusieurs personnes. Le but est de se rendre à la destination demandé sans se faire toucher incluant les coins. Il y a plusieurs niveaux à ce jeu.
 
 ![photo](media/projection_visuelle.jpg)
-##### Cette photo a été prise par moi
+##### Cette photo a été prise par Rosa-Lee Savoie
 
 ## Composants: Dans la salle, il y avait une un grand écran avec un code QR.
 ![photo](media/codeqr.jpg)
