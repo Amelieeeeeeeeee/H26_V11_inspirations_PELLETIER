@@ -1,91 +1,41 @@
-# Exposés des finissants en TIM
+# Terminal
  
-## Mission décollage (première place)
- 
-### Nom des créateurs
-- Justin Monpetit
-- Jad Saloumi
-- Thearylou Lach
--  Ahmed Kaissoumi
--  Radhouane Kordan
- 
-### Photos installations
- 
- 
-### Mon expérience
-- j'ai bien aimée l'animation du jeu
-- J’aime ce jeu et, chaque fois que je perds, ça me donne envie de réessayer jusqu’à gagner.
-- J’apprécie particulièrement les jeux qui se jouent à plusieurs en équipe.
- 
-## Symbiose (deuxième place)
- 
-### Nom des créateurs
-- Ryan Dufault
-- Benjamin Ferland
-- Walid Cheour
-- Yannick Chamberland
- 
-### Photos intallations
- 
- 
-  ### Mon expérience
-- La console est bien conçue et facile à comprendre.
-- C'est un jeu assez simple, mais plaisant a jouer en équipe.
-- J'aime bien le concept et les visuels.
-## Océean rouge (troisième place)
- 
-### Nom des créateurs
-- Kristy Moussaly
-- Amira Tounekti
-### Photos installations
- 
- 
-### Mon expérience
-- J'ai bien aimée la console, les graphiques visuels et le but du jeu.
-- Le joystick est facile à manipuler.
-- J'aime bien qu'ils ont faite un jeu qui donne un message qui parle de la pollution.
-- C'est un jeu relativement simple.
-## Arbre en face(quatrième place)
- 
-### Nom des créateurs
-- Alexandre Gendron
-- Mikael Arseneau
-- Matieu Willet
-- Matis Ghariani
-- Rafael Angon Dube
-### Photos installations
- 
- 
-### Mon expérience
-- Le concept est comique et plaisant
-- C'est une expérience unique et amusante lorsqu'on voit nos visages sur les fleurs.
- 
-## Quand les yeux se croisent (cinquième place)
- 
-  ### Nom des créateurs
-- Edelwyn Ledru
-- Félix Lavoie
-- Manel Yaya
-- Jade Hébert
-- Patricia Nassif
+![photo](media/titre.jpg)
 
-### Photos installations
+##### Cette photo a été prise par Rosa-Lee Savoie
+ 
+### Lieu : Studio TIM
+ 
+![photo](media/devant_studio.jpg)
+ 
+## Date : 17 Mars 2026
+ 
+## Nom des artistes : Dana Saavedra-Torrano, Mégane Ranger, Ting Yung Terru Lu, Émeryk Bélisle, Elie Daher.
+
+![photo](media/cartel.jpg)
+
+## Description: C'était un grand écran et on pouvait jouer à plusieurs personnes. Le but est de se rendre à la destination demandé sans se faire toucher incluant les coins. Il y a plusieurs niveaux à ce jeu.
+ 
+![photo](media/projection_visuelle.jpg)
+
+##### Cette photo a été prise par Rosa-Lee Savoie
+ 
+## Composants: Dans la salle, il y avait une un grand écran avec un code QR.
+
+![photo](media/codeqr.jpg)
+
+##### Cette photo a été prise par Rosa-Lee Savoie
  
  
-### Mon expérience
-- J'ai bien aimée comment le projet a été créé et il était bien construit.
-- Le concept est super intéressant et fascinant à expérimenter.
+## Type d'installation: Comtemplative
  
+## Expérience vécu: J'ai bien aimée l'ambiance de la salle. J'ai aussi aimé les personnages qu'ont étaient donnés et les sound effects.
+
+![photo](media/speaker.jpg)
+
+##### Cette photo a été prise par Rosa-Lee Savoie
  
-# 3 cours du programme requis pour créer ce genre de projet
+## Ce qui m'a plu: Ce qui m'a plu étaient les installations interactives qui permettent de mieux comprendre comment jouer avec les bouttons sur mon téléphone.
  
-### Web
-Le cours web serait requis car ils ont besoins de créer des codes et utiliser du Javascript.
+## Mise en place: Dans la salle, il y avait un grand écran avec un code QR et plusieurs bancs où ont pouvaient s'assoirent.
  
-### Design graphique
-Le cours de design graphique serait requis car ils devront créer un logo et faire un plan sur Figma.
- 
-### Audio
-Le cours d'audio serait requis car ils devront trouver des sons à mettre dans leur projet.
- 
-Source d'information:
