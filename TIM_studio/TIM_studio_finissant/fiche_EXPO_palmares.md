@@ -80,3 +80,17 @@
 ### Mon expérience
 - J'ai bien aimée comment le projet a été créé et il était bien construit.
 - Le concept est super intéressant et fascinant à expérimenter.
+
+
+# 3 cours du programme requis pour créer ce genre de projet
+
+### Web
+Le cours web serait requis car ils ont besoins de créer des codes et utiliser du Javascript.
+
+### Design graphique
+Le cours de design graphique serait requis car ils devront créer un logo et faire un plan sur Figma.
+
+### Audio
+Le cours d'audio serait requis car ils devront trouver des sons à mettre dans leur projet. 
+
+Source d'information: 
