@@ -1,4 +1,7 @@
 Musée de l'ingéniosité J. Armand-Bombardier, Conférence
+
+![photo](media/musee.png)
+
 Introduction
 
 Au début de la conférence, nous avons rencontré un technicien en multimédia. Son nom était Martin Boucher et il travaille au Musée de l'ingéniosité J. Armand-Bombardier. Il nous a présenté quelques expositions du musée.
