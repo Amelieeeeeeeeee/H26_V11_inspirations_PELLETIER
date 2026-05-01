@@ -10,8 +10,11 @@
 -  Radhouane Kordan
  
 ### Photos installations
- 
- 
+
+ ![photo](media_palmares/decollage_schema.png)
+ ![photo](media_palmares/decollage_debout.png)
+ ![photo](media_palmares/decollage_devant.png)
+
 ### Mon expérience
 - j'ai bien aimée l'animation du jeu
 - J’aime ce jeu et, chaque fois que je perds, ça me donne envie de réessayer jusqu’à gagner.
@@ -27,24 +30,33 @@
  
 ### Photos intallations
  
- 
-  ### Mon expérience
+  ![photo](media_palmares/symbiose_console.png)
+  ![photo](media_palmares/symbiose_devant.png)
+  ![photo](media_palmares/symbiose_schema.png)
+  > Plan de l'installation par Yannick Chamberland, Benjamin Ferland, Ryan Dufault et  Walid Cheour.
+ ### Mon expérience
 - La console est bien conçue et facile à comprendre.
 - C'est un jeu assez simple, mais plaisant a jouer en équipe.
 - J'aime bien le concept et les visuels.
+
 ## Océean rouge (troisième place)
  
 ### Nom des créateurs
 - Kristy Moussaly
 - Amira Tounekti
+
 ### Photos installations
  
- 
+ ![photo](media_palmares/oceanrouge_cote.png)
+ ![photo](media_palmares/oceanrouge_devant.png)
+ ![photo](media_palmares/oceanrouge_schema.png)
+ > Plan d'installation par Kristy Moussalyet Amira Tounekti
 ### Mon expérience
 - J'ai bien aimée la console, les graphiques visuels et le but du jeu.
 - Le joystick est facile à manipuler.
 - J'aime bien qu'ils ont faite un jeu qui donne un message qui parle de la pollution.
 - C'est un jeu relativement simple.
+
 ## Arbre en face(quatrième place)
  
 ### Nom des créateurs
@@ -55,8 +67,10 @@
 - Rafael Angon Dube
 ### Photos installations
  
- 
-### Mon expérience
+ ![photo](media_palmares/aef_derriere.png)
+ ![photo](media_palmares/aef_ecran.png)
+ > Plan d'installation par Alexandre Gendron, Mikael Arseneau, Matieu Willet, Matis Ghariani et Rafael Angon Dube.
+ ### Mon expérience
 - Le concept est comique et plaisant
 - C'est une expérience unique et amusante lorsqu'on voit nos visages sur les fleurs.
  
@@ -70,8 +84,9 @@
 - Patricia Nassif
 
 ### Photos installations
- 
- 
+
+  ![photo](media_palmares/qlysc_schema.jpg)
+ > Plan d'installation par Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et  Patricia Nassif.
 ### Mon expérience
 - J'ai bien aimée comment le projet a été créé et il était bien construit.
 - Le concept est super intéressant et fascinant à expérimenter.
@@ -88,4 +103,4 @@ Le cours de design graphique serait requis car ils devront créer un logo et fai
 ### Audio
 Le cours d'audio serait requis car ils devront trouver des sons à mettre dans leur projet.
  
-Source d'information:
+Source d'information: https://commentouvrir.com/tech/quest-ce-que-le-multimedia/
