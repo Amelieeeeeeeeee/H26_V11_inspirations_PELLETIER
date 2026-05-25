@@ -17,12 +17,15 @@ Création collective du Centre des sciences de Montréal.
 
 ## Comment l'oeuvre fonctionne
 - Il y a des des miroirs placés autour d’une forme hexagonale.
+
 - Des lumières LED sont installées sur les côtés.
+
 - Les lumières dans le tunnel changent de couleur.
 - Les lumières créent des formes et des effets visuels différents.
 
 ## Type d'installation:
 - L'installation est artistique et immersive
+
 - L' installation est interactive et lumineuse
 - l'installation est basée sur les illusions optique
 
