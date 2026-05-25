@@ -3,9 +3,6 @@
 ### Lieu:
 Centre des Sciences
 
-## À consulter ici:
-https://www.centredessciencesdemontreal.com/
-
 ## Date: 
 1re Avril 2026
 
@@ -38,9 +35,8 @@ L’expérience m’a fait ressentir quelque chose de très positif. Cela m’a 
 
 
 ![photo](media/moi_interieur.jpg)
->Photo de l'élève Nanthapricha beaulieu devant l'affice de la galerie de l'université de Montréal. La photo a été prise par Amélie Pelletier dans un contexte scolaire.
+>[Photo de l'entrée de l'oeuvre du Kaléoscope au Centres des sciences de Montréal prise par Amélie Pelletier
 
 ## Référence
-Photo prise par: Nanthapricha Beaulieu et Amélie Pelletier dans un contexte scolaire.
-
-[Exposition Nanualuk](https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique)
+https://www.lapresse.ca/societe/famille/2023-02-21/relache/centre-des-sciences-de-montreal-les-dessous-des-expositions-en-cinq-points.php
+https://www.centredessciencesdemontreal.com/
