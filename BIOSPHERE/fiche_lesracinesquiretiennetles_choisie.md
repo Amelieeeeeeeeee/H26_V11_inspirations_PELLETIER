@@ -20,12 +20,12 @@ Cette œuvre explique comment les racines des arbres et des plantes sont de vér
 ![photo](media/vague.jpg)
 >[Photo de la salle de l'exposition prise par Amélie Pelletier
 
-## Comment l'oeuvre fonctionne
+## Comment l'oeuvre fonctionne (Matériel nécessaire):
 - Une expérience immersive et interactive autour du thème de l’eau et des écosystèmes aquatiques.
 
 - Il y avait des textes et plusieurs images qui décrivait l'oeuvre.
 
-## Type d'installation (Matériel nécessaire):
+## Type d'installation:
 - L'installation est immersive
 
 - L' installation est aussi audiovisuelle
