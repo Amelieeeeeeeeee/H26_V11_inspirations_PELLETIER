@@ -9,22 +9,23 @@ Biosphère
 ## Nom de l'artiste: 
 Espace pour la vie
 
-![photo](media/pancarte.jpg)
-![photo](media/pancarte.jpg)
-![photo](media/pancarte.jpg)
-
 ## Description:
 Cette œuvre explique comment les racines des arbres et des plantes sont de véritables héros pour le sol. Elles forment un réseau souterrain qui retient la terre et l'aide à absorber l'eau, comme une éponge. Ceci limite l'érosion causée par les pluies. En s'infiltrant, l'eau se charge de carbone, phosphore et d'azote. Quand elle ressort dans les ruisseaux ou les sources, elle apporte ces nutriments essentiels à la vie aquatique.
 
 ![photo](media/pancarte.jpg)
 >[Photo de la pancarte de l'exposition prise par Amélie Pelletier
 
+![photo](media/environnement.jpg)
+![photo](media/projection_mur.jpg)
+![photo](media/vague.jpg)
+>[Photo de la salle de l'exposition prise par Amélie Pelletier
+
 ## Comment l'oeuvre fonctionne
 - Une expérience immersive et interactive autour du thème de l’eau et des écosystèmes aquatiques.
 
 - Il y avait des textes et plusieurs images qui décrivait l'oeuvre.
 
-## Type d'installation:
+## Type d'installation (Matériel nécessaire):
 - L'installation est immersive
 
 - L' installation est aussi audiovisuelle
@@ -44,7 +45,8 @@ J'ai bien aimée l'ambiance de la salle. Il y avait des hauts-parleurs qui faisa
 ![photo](media/croquis.jpg)
 >Diagramme de l'oeuvre de l'exposition faite par Amélie Pelletier
 
-![photo](media/moi_interieur.jpg)
+![photo](media/moi_devant_lieu.jpg)
 >[Photo de moi devant l'entrée du Biosphère prise par mon ami Cédric Cappe.
 
 ## Référence
+https://calendrier.espacepourlavie.ca/renversant-un-voyage-au-fil-de-leau
