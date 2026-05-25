@@ -15,7 +15,7 @@ Création collective du Centre des sciences de Montréal.
 ![photo](media/interieur_tunnel.jpg)
 >[Photo de l'entrée de l'oeuvre du Kaléoscope au Centres des sciences de Montréal prise par Amélie Pelletier
 
-## Comment l'oeuvre fonctionne
+## Comment l'oeuvre fonctionne (Matériel nécessaire)
 - Il y a des des miroirs placés autour d’une forme hexagonale.
 
 - Des lumières LED sont installées sur les côtés.
