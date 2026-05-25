@@ -13,7 +13,7 @@ Dayna Mcleod
  
  ## Description: En intégrant l'histoire de la perte de son épouse, et des traitements de son cancer, Dayna a crée des avatars d'elles même sous forme d'actrices IA afin de transmettre son récit (3 versions). Ils transmettrent des affects profonds au moyen d'entitiés algorithmes qui oscillent entre défiance obsolète et réalisme troublant.
 
-![photo](media/cartel.jpg)
+
  ##### Cette photo a été prise par moi
  
 ## Comment l'oeuvre fonctionne (Matériel nécessaire):
@@ -50,5 +50,5 @@ J’ai  beaucoup aimée l’installation de l’exposition. Les écrans, les vid
  
 
  
-![photo](media/croquis.jpg)
-##### Cette mise en place a été faite par moi. 
+![photo](media/schema_expo.jpg)
+>Diagramme de l'exposition faite par Amélie Pelletier 
