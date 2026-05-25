@@ -24,7 +24,7 @@ Création collective du Centre des sciences de Montréal.
 ## Type d'installation:
 - L'installation est artistique et immersive
 - L' installation est interactive et lumineuse
-- l'Installation est basée sur les illusions optique
+- l'installation est basée sur les illusions optique
 
 ![photo](media/tunnel_mirroir.jpg)
 ![photo](media/tunnel_couleur.jpg)
