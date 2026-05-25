@@ -3,8 +3,8 @@
 ### Lieu:
 Centre des Sciences
 
-## À consulter ici: https:
-//www.centredessciencesdemontreal.com/
+## À consulter ici:
+https://www.centredessciencesdemontreal.com/
 
 ## Date: 
 1re Avril 2026
@@ -29,15 +29,18 @@ Création collective du Centre des sciences de Montréal.
 - L' installation est interactive et lumineuse
 - l'Installation est basée sur les illusions optique
 
+![photo](media/tunnel_mirroir.jpg)
+![photo](media/tunnel_couleur.jpg)
+>[Photo de l'entrée de l'oeuvre du Kaléoscope au Centres des sciences de Montréal prise par Amélie Pelletier
+
 ## Expérience vécu: 
-L’expérience m’a fait ressentir quelque chose de très positif. Cela m’a donné de la curiosité et de la surprise tout au long du moment. J’ai vraiment aimé cette expérience car elle m’a permis de vivre quelque chose de différent. C’était un moment agréable, calme et très intéressant.
+L’expérience m’a fait ressentir quelque chose de très positif. Cela m’a donné de la curiosité et de la surprise tout au long du moment. J’ai vraiment aimé cette expérience car elle m’a permis de vivre quelque chose de différent. C’était un moment agréable, calme et très intéressant.  
 
-##### Cette photo a été prise par moi
 
-## Ce qui m'a plu: Ce qui m'a plu étaient 
+![photo](media/moi_interieur.jpg)
+>Photo de l'élève Nanthapricha beaulieu devant l'affice de la galerie de l'université de Montréal. La photo a été prise par Amélie Pelletier dans un contexte scolaire.
 
-##### Cette photo a été prise par moi
+## Référence
+Photo prise par: Nanthapricha Beaulieu et Amélie Pelletier dans un contexte scolaire.
 
-## Mise en place: Dans la salle, il y avait  
-
-##### Cette mise en place a été faite par moi. 
+[Exposition Nanualuk](https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique)
