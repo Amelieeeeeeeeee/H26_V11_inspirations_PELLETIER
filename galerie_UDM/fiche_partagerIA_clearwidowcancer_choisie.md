@@ -1,6 +1,6 @@
 # Devenir Pratique, Partager de l'IA
  ## clear, widow, cancer
-![photo](media/pancarte.jpg)
+![photo](media/cartel_gum.jpg)
  
 ### Lieu:
 Galerie de l'Université de Montréal
@@ -13,8 +13,8 @@ Dayna Mcleod
  
  ## Description: En intégrant l'histoire de la perte de son épouse, et des traitements de son cancer, Dayna a crée des avatars d'elles même sous forme d'actrices IA afin de transmettre son récit (3 versions). Ils transmettrent des affects profonds au moyen d'entitiés algorithmes qui oscillent entre défiance obsolète et réalisme troublant.
 
-![photo](media/cartel.jpg)
- ##### Cette photo a été prise par moi
+![photo](media/trois_ecrans_grand.jpg)
+ >Cette photo des grands écrans a été prise par Amélie Pelletier
  
 ## Comment l'oeuvre fonctionne (Matériel nécessaire):
 - Il y avait 6 écrans total
@@ -39,16 +39,11 @@ Dayna Mcleod
 ## Expérience vécu:
 J’ai ressenti beaucoup d’empathie envers Dayna et sa persévérance. J’ai trouvé son travail très touchant et intéressant. J’ai bien aimé la façon comment elle partage ses idées et ses émotions. L’exposition était facile à comprendre et agréable à regarder.
  
-![photo](media/projection_mur.jpg)
-##### Cette photo a été prise par moi
+![photo](media/trois_ecran_petit.jpg)
+>Cette photo des trois autres écrans plus petit a été prise par moi
  
 ## Ce qui m'a plu: .
 J’ai  beaucoup aimée l’installation de l’exposition. Les écrans, les vidéos et les effets visuels rendaient l’expérience meilleure.
 
-![photo](media/vague.jpg)
-##### Cette photo a été prise par moi
- 
-
- 
 ![photo](media/schema_expo.jpg)
 >Diagramme de l'exposition faite par Amélie Pelletier 
